@@ -1,3 +1,1 @@
-**Machine Learning:**
-
-**React:**
+*LEARNING TAB*
